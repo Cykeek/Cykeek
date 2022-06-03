@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cykeek<img align="center" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/undefined/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png"/></h1>
-<h3 align="center">Maintainer for RMX1851 (Realme 3 Pro)</h3>
+<h3 align="center">Maintainer for RMX1851 (Realme 3 Pro)<img align="center" src="https://img.icons8.com/cute-clipart/64/undefined/android.png"/></h3>
 
 
 - 🔭 I’m currently Maintaining [Cherish OS](https://github.com/CherishOS) officially
