@@ -28,7 +28,7 @@
 <h3 align="center"><a href="mailto:dsilence001@gmail.com"><img align="center" src="https://img.icons8.com/color/48/undefined/gmail-new.png"/>Mail ME</h3></a>
 <h3 align="center"><a href="https://t.me/Cykeek"><img align="center" src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png"/>Cykeek</h3></a>
 
-- ⚡ Fun fact **I'm Student** studying in <p><img align="center" src="https://www.technoindiauniversity.ac.in/images/techno-indiauniversity-logo-black.png"><a href"https://www.technoindiauniversity.ac.in/?https://www.technoindiauniversity.ac.in/&gclid=Cj0KCQjw4uaUBhC8ARIsANUuDjWVipoVMJTe03un5piWTXPzhXHGtFfR7BAYFmi3BHSNBFrPBjoDjgAaAu14EALw_wcB"></a></p>
+- ⚡ Fun fact **I'm Student** studying in <a href"https://www.technoindiauniversity.ac.in/?https://www.technoindiauniversity.ac.in/&gclid=Cj0KCQjw4uaUBhC8ARIsANUuDjWVipoVMJTe03un5piWTXPzhXHGtFfR7BAYFmi3BHSNBFrPBjoDjgAaAu14EALw_wcB"><img align="center" src="https://www.technoindiauniversity.ac.in/images/techno-indiauniversity-logo-black.png"></a>
 
 - 💁 Thanks to <a href="https://github.com/R15Hi">R15Hi</a> , <a href="https://github.com/Nexus003">Nexus003</a> , <a href="https://t.me/DivineHimself">DivineHimself</a> , <a href="https://github.com/Kartik728">Kartik728</a> , <a href="https://github.com/eun0115">eun0115</a> , <a href="https://github.com/UsiFX">Usif</a> , for helping me a lot 
 
