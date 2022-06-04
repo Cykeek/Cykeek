@@ -20,9 +20,9 @@
 <p align="center"><h3 align="center">•Nexus v1:<a href="https://github.com/projects-nexus/kernel_realme_sdm710.git">Click Here</p></h3></a>
 <p align="center"><h3 align="center">•Nexus v2:<a href="https://github.com/projects-nexus/kernel_realme_sdm710/tree/staging">Click Here</p></h3></a>
 <p align="center"><h3 align="center">•Silont lina:<a href="https://github.com/silont-project/kernel_realme_RMX1851.git">Click Here</p></h3></a>
-<p align="center"><h3 align="center">•perf +:<a href="https://github.com/HyperTeam/android_kernel_realme_sdm710.git">Click Here</p></h3></a>
+<p align="center"><h3 align="center">•perf +:<a href="https://github.com/HyperTeam/android_kernel_realme_sdm710/tree/4.9.277">Click Here</p></h3></a>
 
-<p align="center"><h1 align="center">How to Clone Them ? Soln: gcl "kernel Link" kernel/realme/sdm710</p></h1>
+<p align="center"><h1 align="center">How to Clone Them ? Soln: gcl "kernel Link" -b BranchName kernel/realme/sdm710</p></h1>
 
 - 📫 How to reach me 
 <h3 align="center"><a href="mailto:dsilence001@gmail.com"><img align="center" src="https://img.icons8.com/color/48/undefined/gmail-new.png"/>Mail ME</h3></a>
