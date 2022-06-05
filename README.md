@@ -2,20 +2,20 @@
 <h3 align="center">Maintainer for RMX1851 (Realme 3 Pro)<img align="center" src="https://img.icons8.com/cute-clipart/64/undefined/android.png"/></h3>
 
 
-- 🔭 I’m currently Maintaining [Cherish OS](https://github.com/CherishOS) officially
+- I’m currently Maintaining [Cherish OS](https://github.com/CherishOS) officially
 
-- 🌱 I’m currently learning **Android Development , Cyber Security , Linux , DBMS**
+- I’m currently learning **Android Development , Cyber Security , Linux , DBMS**
 
 - <h4 align ="left">📝 I regularly Make Builds on</h4><p align="right"><img align="center" src="https://img.icons8.com/ios-glyphs/30/undefined/verified-account--v2.png"/>Official</p>
 <p align="center"><h3 align="center"><img align="center" src="https://avatars.githubusercontent.com/u/63174434?s=200&v=4"style="width:46px;height:46px;"><a href="https://github.com/CherishOS">CherishOS<img align="center" src="https://img.icons8.com/ios-glyphs/30/undefined/verified-account--v2.png"/></p></h3></a>
 <p align="center"><h3 align="center"><img align="center" src="https://avatars.githubusercontent.com/u/66854612?s=200&v=4" style="width:46px;height:46px;"><a href="https://github.com/Evolution-X">EvolutionX</p></h3></a>
 <p align="center"><h3 align="center"><img align="center" src="https://avatars.githubusercontent.com/u/40351870?s=200&v=4" style="width:46px;height:46px;"><a href="https://github.com/ArrowOS">ArrowOS</p></h3></a>
 
-- 🌭 Clone my Repos in this ways : 
+- Clone my Repos in this ways : 
 
 - ```git clone https://github.com/Cykeek/device_Realme_RMX1851 device/realme/RMX1851 && git clone https://github.com/Cykeek/device_realme_sdm710-common device/realme/sdm710-common && git clone https://github.com/Cykeek/vendor_realme_RMX1851 vendor/realme/RMX1851 && git clone https://github.com/Cykeek/vendor_realme_sdm710-common vendor/realme/sdm710-common ```
 
-- 🧠 Kernel for Realme 3 pros : 
+- Kernel for Realme 3 pros : 
 <p align="center"><h3 align="center">•Illusion:<a href="https://github.com/Blaster4385/IllusionX_sdm710.git">Click Here</p></h3></a>
 <p align="center"><h3 align="center">•Nexus v1:<a href="https://github.com/projects-nexus/kernel_realme_sdm710.git">Click Here</p></h3></a>
 <p align="center"><h3 align="center">•Nexus v2:<a href="https://github.com/projects-nexus/kernel_realme_sdm710/tree/staging">Click Here</p></h3></a>
@@ -24,14 +24,14 @@
 
 <p align="center"><h1 align="center">How to Clone Them ? Soln: gcl "kernel Link" -b BranchName kernel/realme/sdm710</p></h1>
 
-- 📫 How to reach me 
+- How to reach me 
 <h3 align="center"><a href="mailto:dsilence001@gmail.com"><img align="center" src="https://img.icons8.com/color/48/undefined/gmail-new.png"/>Mail ME</h3></a>
 <h3 align="center"><a href="https://t.me/Cykeek"><img align="center" src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png"/>Cykeek</h3></a>
 
-- ⚡ Fun fact **I'm Student** studying in :
+- Fun fact **I'm Student** studying in :
 <a href="https://technoindiauniversity.ac.in/"><img align="center" src="https://www.technoindiauniversity.ac.in/images/techno-indiauniversity-logo-black.png"></a>
 
-- 💁 Thanks to <a href="https://github.com/R15Hi">R15Hi</a> , <a href="https://github.com/Nexus003">Nexus003</a> , <a href="https://t.me/DivineHimself">DivineHimself</a> , <a href="https://github.com/Kartik728">Kartik728</a> , <a href="https://github.com/eun0115">eun0115</a> , <a href="https://github.com/UsiFX">Usif</a> , for helping me a lot 
+- Thanks to <a href="https://github.com/R15Hi">R15Hi</a> , <a href="https://github.com/Nexus003">Nexus003</a> , <a href="https://t.me/DivineHimself">DivineHimself</a> , <a href="https://github.com/Kartik728">Kartik728</a> , <a href="https://github.com/eun0115">eun0115</a> , <a href="https://github.com/UsiFX">Usif</a> , for helping me a lot 
 
 <h3>join my Build Group:</h3>
 <a href="https://t.me/CykeekBuilds"><img align="center" src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png"/>CykeekBuilds</h3></a>
