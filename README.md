@@ -31,6 +31,9 @@
 - Fun fact **I'm Student** studying in :
 <a href="https://technoindiauniversity.ac.in/"><img align="center" src="https://www.technoindiauniversity.ac.in/images/techno-indiauniversity-logo-black.png"></a>
 
+- Wanna Learn how to Build Roms
+<a href="https://github.com/Cykeek/Learn-here/blob/main/Build%20here.md">Learn here</a>
+
 - Thanks to <a href="https://github.com/R15Hi">R15Hi</a> , <a href="https://github.com/Nexus003">Nexus003</a> , <a href="https://t.me/DivineHimself">DivineHimself</a> , <a href="https://github.com/Kartik728">Kartik728</a> , <a href="https://github.com/eun0115">eun0115</a> , <a href="https://github.com/UsiFX">Usif</a> , for helping me a lot 
 
 <h3>join my Build Group:</h3>
