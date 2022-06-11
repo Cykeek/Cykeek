@@ -12,7 +12,7 @@
 
 - Clone my Repos in this ways : 
 
-- ```git clone https://github.com/Cykeek/device_Realme_RMX1851 device/realme/RMX1851 && git clone https://github.com/Cykeek/device_realme_sdm710-common device/realme/sdm710-common && git clone https://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@github.com/Cykeek/vendor_realme_RMX1851 vendor/realme/RMX1851 && git clone https://github.com/Cykeek/vendor_realme_sdm710-common vendor/realme/sdm710-common ```
+- ```git clone https://github.com/Cykeek/device_Realme_RMX1851 device/realme/RMX1851 && git clone https://github.com/Cykeek/device_realme_sdm710-common device/realme/sdm710-common && git clone https://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@github.com/Cykeek/vendor_realme_RMX1851 vendor/realme/RMX1851 && git clone https://github.com/Cykeek/vendor_realme_sdm710-common vendor/realme/sdm710-common ```
 
 - Kernel for Realme 3 pros : 
 <p align="center"><h3 align="center">•Illusion:<a href="https://github.com/Blaster4385/IllusionX_sdm710.git">Click Here</p></h3></a>
