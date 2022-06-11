@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cykeek<img align="center" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/undefined/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png"/></h1>
 <h3 align="center">Maintainer for RMX1851 (Realme 3 Pro)<img align="center" src="https://img.icons8.com/cute-clipart/64/undefined/android.png"/></h3>
 
+![Cykeek GitHub stats](https://github-readme-stats.vercel.app/api?username=Cykeek_private=true&theme=algolia&show_icons=true&include_all_commits=true&border_radius=18&border_color=FF7DA2FF&bg_color=829BE6,9582E6,FF5252)
+
 
 - I’m currently Maintaining [Cherish OS](https://github.com/CherishOS) officially
 
