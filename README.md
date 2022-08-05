@@ -10,8 +10,8 @@
 
 - I’m currently learning **Android Development , Cyber Security , Linux , Web Development**
 
-- <h4 align ="left">📝 I regularly Make Builds on</h4><p align="right"><img align="center" src="[https://www.flaticon.com/free-icon/verified_7595571?term=verified&page=1&position=8&page=1&position=8&related_id=7595571&origin=search](https://cdn-icons-png.flaticon.com/512/7595/7595571.png)"/>Official</p>
-<p align="center"><h3 align="center"><img align="center" src="https://avatars.githubusercontent.com/u/63174434?s=200&v=4"style="width:46px;height:46px;"><a href="https://github.com/CherishOS">CherishOS<img align="center" src="[https://www.flaticon.com/free-icon/verified_7595571?term=verified&page=1&position=8&page=1&position=8&related_id=7595571&origin=search](https://cdn-icons-png.flaticon.com/512/7595/7595571.png)"/></p></h3></a>
+- <h4 align ="left">📝 I regularly Make Builds on</h4><p align="right"><img align="center" src="https://img.icons8.com/color/48/000000/verified-account.png"/>Official</p>
+<p align="center"><h3 align="center"><img align="center" src="https://avatars.githubusercontent.com/u/63174434?s=200&v=4"style="width:46px;height:46px;"><a href="https://github.com/CherishOS">CherishOS<img align="center" src="https://img.icons8.com/color/48/000000/verified-account.png"/></p></h3></a>
 
 - Clone my Repos in this ways : 
 
