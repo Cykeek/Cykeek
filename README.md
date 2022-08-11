@@ -17,9 +17,7 @@
 <p align="center"><h3 align="center"><img align="center" src="https://avatars.githubusercontent.com/u/81792437?s=200&v=4" style="width:46px;height:46px;">
 <a href="https://github.com/VoltageOS">VoltageOS<img align="center" src="https://img.icons8.com/color/48/000000/verified-account.png" style="width:46px;height:46px;"></p></h3></a>
 
-- Clone my Repos in this ways : 
-
-- ```git clone https://github.com/Cykeek/android_device_realme_RMX1851 device/realme/RMX1851 && git clone https://github.com/Cykeek/android_device_realme_sdm710-common device/realme/sdm710-common && git clone https://gitlab.com/Cykeek/vendor_realme_RMX1851 -b 12 vendor/realme/RMX1851 && git clone https://github.com/Cykeek/android_vendor_realme_sdm710-common vendor/realme/sdm710-common && git clone https://github.com/ConcrodeOS/prebuilts_clang_host_linux-x86_clang-proton prebuilts/clang/host/linux-x86/clang-proton/```
+- Clone my Repos by this one script : <a href="https://github.com/Cykeek/ScriptKiddie/blob/main/dt.sh">Link here</a>
 
 - Kernel for Realme 3 pros : 
 <p align="center"><h3 align="center">•Illusion:<a href="https://github.com/Blaster4385/IllusionX_sdm710.git">Click Here</p></h3></a>
