@@ -29,7 +29,7 @@
 <p align="center"><h1 align="center">How to Clone Them ? Soln: gcl "kernel Link" -b BranchName kernel/realme/sdm710</p></h1>
 
 - How to reach me 
-<h3 align="center"><a href="mailto:dsilence001@gmail.com"><img align="center" src="https://img.icons8.com/color/48/undefined/gmail-new.png"/>Mail ME</h3></a>
+<h3 align="center"><a href="mailto:Cykeek@proton.me"><img align="center" src="https://img.icons8.com/color/48/undefined/gmail-new.png"/>Mail ME</h3></a>
 <h3 align="center"><a href="https://t.me/Cykeek"><img align="center" src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png"/>Cykeek</h3></a>
 
 - Fun fact **I'm Student** studying in :
