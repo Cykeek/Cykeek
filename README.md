@@ -40,7 +40,7 @@
 
 - Thanks to <a href="https://github.com/R15Hi">R15Hi</a> , <a href="https://github.com/mrfox2003">mrfox2003</a> ,<a href="https://github.com/Nexus003">Nexus003</a> , <a href="https://t.me/DivineHimself">DivineHimself</a> , <a href="https://github.com/Kartik728">Kartik728</a> , <a href="https://github.com/eun0115">eun0115</a> , <a href="https://github.com/UsiFX">Usif</a> , <a href="https://github.com/SheikhFaisal713">SheikhFaisal</a> , <a href="https://github.com/RedPrez16">RedPrez16</a> , <a href="https://github.com/karthick111">Karthick111</a> for helping me a lot 
 
-- All my Device Trees are available on [Gitlab](https://gitlab.com/Cykeek)
+- All my Device Trees are available on [GitHub](https://gitlab.com/Cykeek](https://github.com/Cykeek?tab=repositories)
 
 <h3>join my Build Group:</h3>
 <a href="https://t.me/CykeekBuilds"><img align="center" src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png"/>CykeekBuilds</h3></a>
