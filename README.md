@@ -6,13 +6,11 @@
 ![Cykeek GitHub stats](https://github-readme-stats.vercel.app/api?username=Cykeek&theme=algolia&show_icons=true&include_all_commits=true&border_radius=18&border_color=FF7DA2FF&bg_color=829BE6,9582E6,FF5252)
 
 
-- I’m currently Maintaining [Cherish OS](https://github.com/CherishOS) & [VoltageOS](https://github.com/VoltageOS) officially
+- I’m currently Maintaining [VoltageOS](https://github.com/VoltageOS) officially
 
 - I’m currently learning **Android Development , Cyber Security , Linux , Web Development**
 
 - <h4 align ="left">📝 I regularly Make Builds on</h4><p align="right"><img align="center" src="https://img.icons8.com/color/48/000000/verified-account.png" style="width:46px;height:46px;">Official</p>
-<p align="center"><h3 align="center"><img align="center" src="https://avatars.githubusercontent.com/u/63174434?s=200&v=4" style="width:46px;height:46px;">
-<a href="https://github.com/CherishOS">CherishOS<img align="center" src="https://img.icons8.com/color/48/000000/verified-account.png" style="width:46px;height:46px;"></p></h3></a>
 
 <p align="center"><h3 align="center"><img align="center" src="https://avatars.githubusercontent.com/u/81792437?s=200&v=4" style="width:46px;height:46px;">
 <a href="https://github.com/VoltageOS">VoltageOS<img align="center" src="https://img.icons8.com/color/48/000000/verified-account.png" style="width:46px;height:46px;"></p></h3></a>
