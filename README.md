@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cykeek</h1>
 <h3 align="center">A passionate Developer from India</h3>
 <br>
-![Welcome!](https://user-images.githubusercontent.com/70019075/223637850-e4a3d5a2-15cb-4435-916c-51285c6014f0.png)
 <br>
 <h3 align="center">Officially Maintaining</h3>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/81792437?s=200&v=4" alt="VoltageOS" height="150" width="150"/>
